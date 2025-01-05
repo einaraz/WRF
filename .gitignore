@@ -37,3 +37,6 @@ wrfout_d*
 rsl.out.*
 rsl.error.*
 *.log
+
+# job script used to compile WRF
+compileWRF.pbs
